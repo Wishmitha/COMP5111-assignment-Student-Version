@@ -24,7 +24,7 @@ We have prepared tutorials to help you accomplish this assignment.
 
 ### Class Under Test
 
-Please download/fork the project in this repo, which we have prepared for this assignment [here](docs/assignment1).
+Please download/fork the project in this repo, which we have prepared for this assignment.
 The project contains a Java Class under test (CUT), `comp5111.assignment.cut.ToolBox`, residing in `src/main/java/`.
 You need to generate test suites for this program and measure the corresponding test coverage, i.e., the percentages 
 of statements/branches/lines of this program covered by the generated tests.
